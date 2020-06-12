@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- created with https://www.codeandweb.com/physicseditor -->
+<bodydef>
+
+	<body name="body">
+		<is_dynamic/>
+		<linear_damping>0.05</linear_damping>
+		<angular_damping>0</angular_damping>
+		<allow_sleep/>
+		<fixture>
+			<density>150</density>
+			<friction>0.5</friction>
+			<restitution>0</restitution>
+			<filter_category_bits>1</filter_category_bits>
+			<filter_mask_bits>65535</filter_mask_bits>
+			<filter_group_index>0</filter_group_index>
+			<polygon>477.0000, 312.0000, 465.0000, 313.0000, 469.0000, 301.0000, 476.0000, 301.0000</polygon>
+			<polygon>436.0000, 322.0000, 446.0000, 301.0000, 459.0000, 299.0000, 469.0000, 301.0000, 465.0000, 313.0000, 446.0000, 326.0000</polygon>
+			<polygon>240.0000, 14.0000, 241.0000, 8.0000, 247.0000, 2.0000, 273.0000, 5.0000, 253.0000, 16.0000</polygon>
+			<polygon>253.0000, 16.0000, 273.0000, 5.0000, 320.0000, 2.0000, 264.0000, 23.0000</polygon>
+			<polygon>469.0000, 301.0000, 459.0000, 299.0000, 459.0000, 281.0000, 469.0000, 285.0000</polygon>
+			<polygon>469.0000, 285.0000, 459.0000, 281.0000, 452.0000, 277.0000, 460.0000, 255.0000, 474.0000, 271.0000</polygon>
+			<polygon>123.0000, 210.0000, 119.0000, 201.0000, 119.0000, 192.0000, 122.0000, 188.0000, 155.0000, 162.0000, 150.0000, 204.0000</polygon>
+			<polygon>264.0000, 23.0000, 320.0000, 2.0000, 353.0000, 2.0000, 390.0000, 13.0000, 403.0000, 23.0000, 414.0000, 37.0000, 435.0000, 91.0000, 272.0000, 60.0000</polygon>
+			<polygon>410.0000, 200.0000, 400.0000, 191.0000, 428.0000, 201.0000</polygon>
+			<polygon>243.0000, 66.0000, 259.0000, 60.0000, 272.0000, 60.0000, 435.0000, 91.0000, 464.0000, 162.0000, 301.0000, 129.0000, 222.0000, 96.0000, 231.0000, 81.0000</polygon>
+			<polygon>423.0000, 37.0000, 430.0000, 40.0000, 435.0000, 91.0000, 414.0000, 37.0000</polygon>
+			<polygon>474.0000, 271.0000, 460.0000, 255.0000, 445.0000, 224.0000, 464.0000, 175.0000, 501.0000, 196.0000, 485.0000, 275.0000</polygon>
+			<polygon>155.0000, 162.0000, 222.0000, 96.0000, 274.0000, 130.0000, 183.0000, 198.0000, 150.0000, 204.0000</polygon>
+			<polygon>547.0000, 97.0000, 559.0000, 103.0000, 485.0000, 275.0000, 506.0000, 193.0000</polygon>
+			<polygon>400.0000, 191.0000, 376.0000, 177.0000, 348.0000, 158.0000, 320.0000, 137.0000, 464.0000, 162.0000, 464.0000, 175.0000, 428.0000, 201.0000</polygon>
+			<polygon>506.0000, 193.0000, 485.0000, 275.0000, 501.0000, 196.0000</polygon>
+			<polygon>445.0000, 224.0000, 428.0000, 201.0000, 464.0000, 175.0000</polygon>
+			<polygon>152.0000, 214.0000, 43.0000, 245.0000, 150.0000, 204.0000, 183.0000, 198.0000</polygon>
+			<polygon>2.0000, 255.0000, 3.0000, 253.0000, 95.0000, 225.0000, 43.0000, 245.0000</polygon>
+			<polygon>320.0000, 137.0000, 301.0000, 129.0000, 464.0000, 162.0000</polygon>
+			<polygon>301.0000, 129.0000, 274.0000, 130.0000, 222.0000, 96.0000</polygon>
+		</fixture>
+		<fixture>
+			<density>100</density>
+			<friction>0</friction>
+			<restitution>0</restitution>
+			<filter_category_bits>1</filter_category_bits>
+			<filter_mask_bits>65535</filter_mask_bits>
+			<filter_group_index>0</filter_group_index>
+			<circle x="344.457" y="35.911" r="32.727"/>
+		</fixture>
+		<fixture>
+			<density>200</density>
+			<friction>0</friction>
+			<restitution>0</restitution>
+			<filter_category_bits>1</filter_category_bits>
+			<filter_mask_bits>65535</filter_mask_bits>
+			<filter_group_index>0</filter_group_index>
+			<polygon>328.0000, 10.0000, 397.0000, 22.0000, 425.0000, 117.0000, 382.0000, 125.0000, 312.0000, 72.0000</polygon>
+		</fixture>
+	</body>
+
+	<body name="chain">
+		<is_dynamic/>
+		<linear_damping>0</linear_damping>
+		<angular_damping>0</angular_damping>
+		<allow_sleep/>
+		<fixture>
+			<density>6</density>
+			<friction>0.5</friction>
+			<restitution>0</restitution>
+			<filter_category_bits>1</filter_category_bits>
+			<filter_mask_bits>0</filter_mask_bits>
+			<filter_group_index>0</filter_group_index>
+			<circle x="43.043" y="42.460" r="42.081"/>
+		</fixture>
+	</body>
+
+	<body name="fork">
+		<is_dynamic/>
+		<linear_damping>0</linear_damping>
+		<angular_damping>0</angular_damping>
+		<allow_sleep/>
+		<fixture>
+			<density>125</density>
+			<friction>0.5</friction>
+			<restitution>0</restitution>
+			<filter_category_bits>1</filter_category_bits>
+			<filter_mask_bits>65534</filter_mask_bits>
+			<filter_group_index>0</filter_group_index>
+			<polygon>151.0000, 7.0000, 148.0000, 18.0000, 135.0000, 26.0000, 122.0000, 9.0000, 137.0000, 1.0000</polygon>
+			<polygon>8.0000, 42.0000, 13.0000, 54.0000, 11.0000, 66.0000, 1.0000, 40.0000</polygon>
+			<polygon>13.0000, 54.0000, 20.0000, 66.0000, 31.0000, 87.0000, 43.0000, 114.0000, 23.0000, 89.0000, 11.0000, 66.0000</polygon>
+			<polygon>31.0000, 87.0000, 48.0000, 106.0000, 64.0000, 132.0000, 43.0000, 114.0000</polygon>
+			<polygon>48.0000, 106.0000, 72.0000, 126.0000, 64.0000, 132.0000</polygon>
+			<polygon>64.0000, 132.0000, 72.0000, 126.0000, 132.0000, 155.0000, 100.0000, 148.0000</polygon>
+			<polygon>122.0000, 9.0000, 135.0000, 26.0000, 89.0000, 134.0000, 72.0000, 126.0000</polygon>
+			<polygon>165.0000, 154.0000, 132.0000, 155.0000, 166.0000, 148.0000, 202.0000, 143.0000, 203.0000, 145.0000</polygon>
+			<polygon>166.0000, 148.0000, 132.0000, 155.0000, 146.0000, 147.0000</polygon>
+			<polygon>146.0000, 147.0000, 132.0000, 155.0000, 119.0000, 145.0000</polygon>
+			<polygon>119.0000, 145.0000, 132.0000, 155.0000, 89.0000, 134.0000</polygon>
+		</fixture>
+	</body>
+
+	<body name="front_brake_disk">
+		<is_dynamic/>
+		<linear_damping>0</linear_damping>
+		<angular_damping>0</angular_damping>
+		<allow_sleep/>
+		<fixture>
+			<density>9</density>
+			<friction>0</friction>
+			<restitution>0</restitution>
+			<filter_category_bits>1</filter_category_bits>
+			<filter_mask_bits>65534</filter_mask_bits>
+			<filter_group_index>0</filter_group_index>
+			<circle x="36.364" y="36.364" r="35.568"/>
+		</fixture>
+	</body>
+
+	<body name="front_wheel">
+		<is_dynamic/>
+		<linear_damping>0</linear_damping>
+		<angular_damping>0.2</angular_damping>
+		<allow_sleep/>
+		<fixture>
+			<density>20</density>
+			<friction>0.9</friction>
+			<restitution>0</restitution>
+			<filter_category_bits>1</filter_category_bits>
+			<filter_mask_bits>65534</filter_mask_bits>
+			<filter_group_index>0</filter_group_index>
+			<circle x="137.996" y="137.875" r="130.956"/>
+		</fixture>
+	</body>
+
+	<body name="rear_brake_disk">
+		<is_dynamic/>
+		<linear_damping>0</linear_damping>
+		<angular_damping>0</angular_damping>
+		<allow_sleep/>
+		<fixture>
+			<density>9</density>
+			<friction>0.5</friction>
+			<restitution>0</restitution>
+			<filter_category_bits>1</filter_category_bits>
+			<filter_mask_bits>65534</filter_mask_bits>
+			<filter_group_index>0</filter_group_index>
+			<circle x="28.502" y="28.502" r="28.570"/>
+		</fixture>
+	</body>
+
+	<body name="rear_wheel">
+		<is_dynamic/>
+		<linear_damping>0</linear_damping>
+		<angular_damping>0.3</angular_damping>
+		<allow_sleep/>
+		<fixture>
+			<density>30</density>
+			<friction>1.3</friction>
+			<restitution>0</restitution>
+			<filter_category_bits>1</filter_category_bits>
+			<filter_mask_bits>65534</filter_mask_bits>
+			<filter_group_index>0</filter_group_index>
+			<circle x="136.957" y="136.957" r="127.910"/>
+		</fixture>
+	</body>
+
+	<body name="shell">
+		<is_dynamic/>
+		<linear_damping>0</linear_damping>
+		<angular_damping>0</angular_damping>
+		<allow_sleep/>
+		<fixture>
+			<density>5</density>
+			<friction>0.5</friction>
+			<restitution>0.2</restitution>
+			<filter_category_bits>1</filter_category_bits>
+			<filter_mask_bits>65534</filter_mask_bits>
+			<filter_group_index>0</filter_group_index>
+			<circle x="38.988" y="38.925" r="38.768"/>
+		</fixture>
+	</body>
+
+	<body name="sprocket">
+		<is_dynamic/>
+		<linear_damping>0</linear_damping>
+		<angular_damping>0</angular_damping>
+		<allow_sleep/>
+		<fixture>
+			<density>9</density>
+			<friction>0.5</friction>
+			<restitution>0</restitution>
+			<filter_category_bits>1</filter_category_bits>
+			<filter_mask_bits>65534</filter_mask_bits>
+			<filter_group_index>0</filter_group_index>
+			<circle x="41.481" y="41.481" r="37.593"/>
+		</fixture>
+	</body>
+
+	<body name="swingarm">
+		<is_dynamic/>
+		<linear_damping>0</linear_damping>
+		<angular_damping>0</angular_damping>
+		<allow_sleep/>
+		<fixture>
+			<density>125</density>
+			<friction>0.5</friction>
+			<restitution>0</restitution>
+			<filter_category_bits>1</filter_category_bits>
+			<filter_mask_bits>65534</filter_mask_bits>
+			<filter_group_index>0</filter_group_index>
+			<polygon>197.0000, 77.0000, 185.0000, 77.0000, 181.0000, 56.0000, 193.0000, 54.0000</polygon>
+			<polygon>4.0000, 1.0000, 15.0000, 0.0000, 20.0000, 5.0000, 23.0000, 22.0000, 5.0000, 21.0000, 1.0000, 18.0000</polygon>
+			<polygon>180.4348, 28.2609, 200.0000, 38.0000, 193.0000, 54.0000, 181.0000, 56.0000, 176.0000, 37.0000</polygon>
+			<polygon>223.0000, 41.0000, 223.0000, 49.0000, 193.0000, 54.0000, 200.0000, 38.0000</polygon>
+			<polygon>181.0000, 56.0000, 156.0000, 52.0000, 23.0000, 22.0000, 20.0000, 5.0000, 176.0000, 37.0000</polygon>
+		</fixture>
+	</body>
+
+	<body name="front_brake">
+		<is_dynamic/>
+		<linear_damping>0</linear_damping>
+		<angular_damping>0</angular_damping>
+		<allow_sleep/>
+		<fixture>
+			<density>50</density>
+			<friction>0.5</friction>
+			<restitution>0</restitution>
+			<filter_category_bits>1</filter_category_bits>
+			<filter_mask_bits>65534</filter_mask_bits>
+			<filter_group_index>0</filter_group_index>
+			<polygon>33.0000, 26.0000, 22.0000, 25.0000, 31.0000, 13.0000</polygon>
+			<polygon>11.0000, 0.0000, 31.0000, 13.0000, 13.0000, 25.0000, 0.0000, 26.0000</polygon>
+			<polygon>22.0000, 25.0000, 13.0000, 25.0000, 31.0000, 13.0000</polygon>
+		</fixture>
+	</body>
+
+	<metadata>
+		<format>1</format>
+		<ptm_ratio>393</ptm_ratio>
+	</metadata>
+
+</bodydef>
+

@@ -1,0 +1,4 @@
+#Tue Feb 26 16:05:30 MSK 2019
+base.0=D\:\\Android\\Coursework\\project\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=D\:\\Android\\Coursework\\project\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

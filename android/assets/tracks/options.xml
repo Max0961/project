@@ -1,0 +1,52 @@
+<tracks>
+	<track name='Easy Track'>
+		<bg>img/landscape1.jpg</bg>
+		<ground>img/land1.jpg</ground>
+		<tpm>0.5</tpm>
+		<seed>79</seed>
+		<bumpiness>14</bumpiness>
+		<scope>500</scope>
+		<steepness>80</steepness>
+		<length>500</length>
+	</track>
+	<track name='Plunge'>
+		<bg>img/landscape2.jpg</bg>
+		<ground>img/land2.jpg</ground>
+		<tpm>0.25</tpm>
+		<seed>1259</seed>
+		<bumpiness>4</bumpiness>
+		<scope>600</scope>
+		<steepness>200</steepness>
+		<length>2000</length>
+	</track>
+	<track name='Complaint'>
+		<bg>img/landscape3.jpg</bg>
+		<ground>img/land3.jpg</ground>
+		<tpm>0.25</tpm>
+		<seed>1879</seed>
+		<bumpiness>7</bumpiness>
+		<scope>80</scope>
+		<steepness>20</steepness>
+		<length>200</length>
+	</track>
+	<track name='Field'>
+		<bg>img/landscape4.jpg</bg>
+		<ground>img/land4.jpg</ground>
+		<tpm>0.25</tpm>
+		<seed>893</seed>
+		<bumpiness>5</bumpiness>
+		<scope>500</scope>
+		<steepness>0</steepness>
+		<length>800</length>
+	</track>
+	<track name='Kek'>
+		<bg>img/landscape5.jpg</bg>
+		<ground>img/land5.jpg</ground>
+		<tpm>0.25</tpm>
+		<seed>79</seed>
+		<bumpiness>12</bumpiness>
+		<scope>80</scope>
+		<steepness>10</steepness>
+		<length>200</length>
+	</track>
+</tracks>

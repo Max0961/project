@@ -1,0 +1,47 @@
+racer.png
+size: 512, 512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm
+  rotate: false
+  xy: 114, 425
+  size: 146, 78
+  orig: 146, 78
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 286, 1
+  size: 121, 120
+  orig: 121, 120
+  offset: 0, 0
+  index: -1
+hip
+  rotate: true
+  xy: 114, 249
+  size: 174, 131
+  orig: 174, 131
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 1, 249
+  size: 111, 216
+  orig: 111, 216
+  offset: 0, 0
+  index: -1
+shoulder
+  rotate: false
+  xy: 197, 1
+  size: 87, 130
+  orig: 87, 130
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 1, 1
+  size: 194, 246
+  orig: 207, 246
+  offset: 0, 0
+  index: -1

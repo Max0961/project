@@ -1,0 +1,16 @@
+#Sat Feb 16 15:47:36 MSK 2019
+renamed.4=classes5.dex
+renamed.3=classes3.dex
+renamed.2=classes2.dex
+renamed.1=classes4.dex
+base.4=D\:\\Android\\Coursework\\project\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-pe-loader-1.1.0_8f2d8d1cb6151c287ac247d55e6705f7d916a066
+renamed.0=classes.dex
+base.3=D\:\\Android\\Coursework\\project\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-backend-android-1.9.8_45036076df67da0cc06f0bf54606e9146a932b01
+base.2=D\:\\Android\\Coursework\\project\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-1.9.8_57cd4148347942ff60c5b8ed862c1be3f8169030
+base.1=D\:\\Android\\Coursework\\project\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-box2d-1.9.8_f9854a663e669125a01ce6b23a9c9fefa44975cf
+base.0=D\:\\Android\\Coursework\\project\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\box2dlights-1.4_2a6a5db55e449ce204629e6098f3fc8d1da6d923
+file.4=D\:\\Android\\Coursework\\project\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-pe-loader-1.1.0_8f2d8d1cb6151c287ac247d55e6705f7d916a066\\classes.dex
+file.3=D\:\\Android\\Coursework\\project\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-backend-android-1.9.8_45036076df67da0cc06f0bf54606e9146a932b01\\classes.dex
+file.2=D\:\\Android\\Coursework\\project\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-1.9.8_57cd4148347942ff60c5b8ed862c1be3f8169030\\classes.dex
+file.1=D\:\\Android\\Coursework\\project\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-box2d-1.9.8_f9854a663e669125a01ce6b23a9c9fefa44975cf\\classes.dex
+file.0=D\:\\Android\\Coursework\\project\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\box2dlights-1.4_2a6a5db55e449ce204629e6098f3fc8d1da6d923\\classes.dex

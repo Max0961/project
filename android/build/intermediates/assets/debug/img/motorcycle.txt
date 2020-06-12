@@ -1,0 +1,82 @@
+motorcycle.png
+size: 1116, 436
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 1, 1
+  size: 560, 331
+  orig: 560, 336
+  offset: 0, 0
+  index: -1
+chain
+  rotate: false
+  xy: 1, 334
+  size: 270, 86
+  orig: 270, 86
+  offset: 0, 0
+  index: -1
+fork
+  rotate: false
+  xy: 841, 277
+  size: 205, 158
+  orig: 205, 158
+  offset: 0, 0
+  index: -1
+front_brake
+  rotate: true
+  xy: 563, 279
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+front_brake_disk
+  rotate: false
+  xy: 663, 279
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+front_wheel
+  rotate: false
+  xy: 563, 1
+  size: 276, 276
+  orig: 276, 276
+  offset: 0, 0
+  index: -1
+rear_brake_disk
+  rotate: false
+  xy: 1048, 277
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+rear_wheel
+  rotate: false
+  xy: 841, 1
+  size: 274, 274
+  orig: 274, 274
+  offset: 0, 0
+  index: -1
+shell
+  rotate: false
+  xy: 358, 334
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+sprocket
+  rotate: false
+  xy: 273, 334
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+swingarm
+  rotate: false
+  xy: 438, 334
+  size: 223, 76
+  orig: 223, 76
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maxim\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.8\a35a0076fbce873f9c2d5a1a1c8066244231bb3c\gdx-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a35a0076fbce873f9c2d5a1a1c8066244231bb3c">
+        <dex dex="D:\Android\Coursework\project\android\build\intermediates\pre-dexed\debug\gdx-1.9.8_57cd4148347942ff60c5b8ed862c1be3f8169030.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maxim\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.8\84024cd60ad6f26370891fbcd17de9f0167e662\gdx-backend-android-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="084024cd60ad6f26370891fbcd17de9f0167e662">
+        <dex dex="D:\Android\Coursework\project\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.8_45036076df67da0cc06f0bf54606e9146a932b01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Coursework\project\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d59abdc9c686cac9b34ce267392cdd20dc450aaf">
+        <dex dex="D:\Android\Coursework\project\android\build\intermediates\pre-dexed\debug\core-1.0_5819fc807162d4293eaa99b76bfc03fb03fb1093.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maxim\.gradle\caches\modules-2\files-2.1\com.codeandweb.physicseditor\gdx-pe-loader\1.1.0\dca64a362e19ca9a0992dcbff0cb67dbff2a942b\gdx-pe-loader-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dca64a362e19ca9a0992dcbff0cb67dbff2a942b">
+        <dex dex="D:\Android\Coursework\project\android\build\intermediates\pre-dexed\debug\gdx-pe-loader-1.1.0_8f2d8d1cb6151c287ac247d55e6705f7d916a066.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maxim\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.8\6f0497b7958216464101adfb7bdc3a0f7b88d6d3\gdx-box2d-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6f0497b7958216464101adfb7bdc3a0f7b88d6d3">
+        <dex dex="D:\Android\Coursework\project\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.9.8_f9854a663e669125a01ce6b23a9c9fefa44975cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maxim\.gradle\caches\modules-2\files-2.1\com.badlogicgames.box2dlights\box2dlights\1.4\3d77ad5b4164fb32fc67e2446e35911bb0aaf0bd\box2dlights-1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3d77ad5b4164fb32fc67e2446e35911bb0aaf0bd">
+        <dex dex="D:\Android\Coursework\project\android\build\intermediates\pre-dexed\debug\box2dlights-1.4_2a6a5db55e449ce204629e6098f3fc8d1da6d923.jar" />
+    </item>
+
+</items>
